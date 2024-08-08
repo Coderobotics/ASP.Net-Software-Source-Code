@@ -6,7 +6,7 @@ Our vision is to stop reinventing the wheel in software development by offering 
 <b>We are offering following 10 Applications as a bundle package:</b>
 
 <ul>
-<li></li>Digital ERP</li>
+<li>Digital ERP</li>
 <li>HotRes – All-in-one Software for Hotel and Restaurant</li>
 <li>Multi Shop Point Of Sale</li>
 <li>Simplify Hospital</li>
